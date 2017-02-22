@@ -1,4 +1,4 @@
-![X-PETER](/document/xpeter.png)
+![X-PETER](/document/xpeter_logo.png)
 
 2017-02-22
 finish the KSpider and upload to github.
